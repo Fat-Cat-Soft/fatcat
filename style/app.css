@@ -1,0 +1,43 @@
+/*HEADER BLOCK*/
+header {
+    background: url(../img/header.png);
+    background-size: cover;
+    background-position: center center;
+    text-align: center;
+    color: #ffffff;
+    font-family: montserrat-bold;
+}
+
+.navbar-default {
+    background: transparent;
+    border: 0;
+}
+.navbar-default .navbar-nav>li>a {
+    color: white;
+}
+
+.navbar-default .navbar-nav>li>a:hover {
+    color: #ee2f1b;
+}
+
+.navbar-default .navbar-brand {
+    color: white;
+}
+
+.navbar-default .navbar-brand:hover {
+    color: white;
+}
+
+.intro {
+    padding: 250px 0;
+}
+
+.intro-large {
+    font-size: 50px;
+}
+
+.intro-small {
+    font-size: 20px;
+}
+
+/*END HEADER BLOCK*/

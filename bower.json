@@ -1,0 +1,21 @@
+{
+  "name": "fatcat",
+  "homepage": "https://github.com/Fat-Cat-Soft/fatcat",
+  "description": "",
+  "main": "index.html",
+  "moduleType": [],
+  "authors": [
+    "Ilya-Nick"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6"
+  }
+}
